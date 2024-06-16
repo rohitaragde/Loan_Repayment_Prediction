@@ -74,23 +74,9 @@ To predict loan repayment status, we implemented the following machine learning 
     pip install -r requirements.txt
     ```
 
-## Usage
-1. Preprocess the data:
-    ```bash
-    python preprocess.py
-    ```
-2. Train the machine learning models:
-    ```bash
-    python train.py
-    ```
-3. Evaluate the models:
-    ```bash
-    python evaluate.py
-    ```
-4. Make predictions on new data:
-    ```bash
-    python predict.py
-    ```
+## Implementation 
+Execute all the cells of the jupyter notebook sequentially starting with data acquiring followed by preprocessing and then model implementation, evaluation and prediction. 
+
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or new features.
