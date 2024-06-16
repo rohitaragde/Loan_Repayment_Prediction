@@ -1,4 +1,4 @@
-# Loan Repayment Prediction System
+# Loan Repayment Prediction Analysis System
 
 ## Introduction
 In the domain of financial lending, accurately predicting loan repayment is a critical task for financial institutions. This project aims to develop a loan repayment system that utilizes machine learning algorithms to predict the risk of loan default and manage repayment processes effectively. By evaluating and comparing various machine learning models, we aim to identify the most reliable approach for predicting loan repayment, thereby aiding in risk management and financial planning.
