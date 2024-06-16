@@ -77,18 +77,7 @@ To predict loan repayment status, we implemented the following machine learning 
 ## Implementation 
 Execute all the cells of the jupyter notebook sequentially starting with data acquiring followed by preprocessing and then model implementation, evaluation and prediction. 
 
-
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or new features.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Authors
-- Your Name (your.email@example.com)
-- Collaborators' names (if any)
-
-## Acknowledgments
-- Special thanks to [Institution/Individual] for providing the dataset.
-- Any other acknowledgments.
+- Rohit Annasaheb Ragde
+- Disha Yadav
 
